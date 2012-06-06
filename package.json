@@ -1,6 +1,6 @@
 {
   "name": "backbone-define",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Morgan 'ARR!' Allen",
   "description": "ExtJS style class definition for name aware Classes",
   "contributors": [
